@@ -1,0 +1,1 @@
+At Cutty Sark data was collected at 2 positions - P1 and P2. P1 is outside the museum, P2 is less than 2 meters away from P1 but inside the museum - under the glass structure.
